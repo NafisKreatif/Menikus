@@ -1,0 +1,7 @@
+3 hati
+hati
+invincible (hancurkan semua dinding)
+batu (hancur 5 kali tabrak)
+misil (5 misil pada tempat acak)
+Aungan (2xN area attack)
+bom
